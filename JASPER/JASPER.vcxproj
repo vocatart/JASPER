@@ -19,11 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="cobalt.cpp" />
+    <ClCompile Include="frequency.cpp" />
     <ClCompile Include="JASPER.cpp" />
+    <ClCompile Include="readwav.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="llsm.h" />
+    <ClInclude Include="readwav.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

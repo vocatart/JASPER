@@ -34,3 +34,8 @@
 .vs
 
 /x64/*
+*.pdb
+*.idb
+*.tlog
+*.log
+*.recipe

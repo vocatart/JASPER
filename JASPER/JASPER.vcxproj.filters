@@ -18,12 +18,18 @@
     <ClCompile Include="JASPER.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="cobalt.cpp">
+    <ClCompile Include="readwav.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="frequency.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="llsm.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="readwav.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
